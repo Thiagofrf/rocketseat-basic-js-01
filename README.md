@@ -26,6 +26,3 @@ Fácil até aqui, né? Bora se desafiar? 👀 🧑‍🚀
 
 - [ ]  Verifique se a soma dos dois números é par ~~(ou ímpar)~~;
 - [ ]  Verifique se os dois números inseridos são iguais ~~(ou diferentes)~~.
-
-Lembre-se de sempre mostrar na tela o resultado de cada uma dessas operações!
-O resultado final desse desafio deve ser algo em torno de:
